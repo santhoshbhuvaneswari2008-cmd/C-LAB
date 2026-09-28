@@ -1,0 +1,4 @@
+C:\Users\Administrator\Downloads\C# experiments\Exp 9\obj\Debug\net10.0\Exp 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\C# experiments\Exp 9\obj\Debug\net10.0\Exp 9.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 9\obj\Debug\net10.0\Exp 9.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\C# experiments\Exp 9\obj\Debug\net10.0\Exp 9.csproj.CoreCompileInputs.cache

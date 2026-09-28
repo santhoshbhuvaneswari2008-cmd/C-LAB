@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\bin\Debug\net10.0-windows\CustomerDialog.exe
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\bin\Debug\net10.0-windows\CustomerDialog.deps.json
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\bin\Debug\net10.0-windows\CustomerDialog.runtimeconfig.json
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\bin\Debug\net10.0-windows\CustomerDialog.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\bin\Debug\net10.0-windows\CustomerDialog.pdb
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\refint\CustomerDialog.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.pdb
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\CustomerDialog.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 7b\CustomerDialog\obj\Debug\net10.0-windows\ref\CustomerDialog.dll

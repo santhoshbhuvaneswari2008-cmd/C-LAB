@@ -1,0 +1,28 @@
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.exe
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.deps.json
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.runtimeconfig.json
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.pdb
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\refint\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.pdb
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\ref\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.exe
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.deps.json
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.runtimeconfig.json
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\bin\Debug\net10.0-windows\WindowsFormExample.pdb
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\refint\WindowsFormExample.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.pdb
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\WindowsFormExample.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 6\WindowsFormExample\obj\Debug\net10.0-windows\ref\WindowsFormExample.dll

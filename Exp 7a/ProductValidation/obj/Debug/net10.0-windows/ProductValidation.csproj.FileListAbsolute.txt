@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\bin\Debug\net10.0-windows\ProductValidation.exe
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\bin\Debug\net10.0-windows\ProductValidation.deps.json
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\bin\Debug\net10.0-windows\ProductValidation.runtimeconfig.json
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\bin\Debug\net10.0-windows\ProductValidation.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\bin\Debug\net10.0-windows\ProductValidation.pdb
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\refint\ProductValidation.dll
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.pdb
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ProductValidation.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\C# experiments\Exp 7a\ProductValidation\obj\Debug\net10.0-windows\ref\ProductValidation.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\Exp 3\bin\Debug\net10.0\Exp 3.exe
+C:\Users\Administrator\Downloads\Exp 3\bin\Debug\net10.0\Exp 3.deps.json
+C:\Users\Administrator\Downloads\Exp 3\bin\Debug\net10.0\Exp 3.runtimeconfig.json
+C:\Users\Administrator\Downloads\Exp 3\bin\Debug\net10.0\Exp 3.dll
+C:\Users\Administrator\Downloads\Exp 3\bin\Debug\net10.0\Exp 3.pdb
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.dll
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\refint\Exp 3.dll
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.pdb
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\Exp 3.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Exp 3\obj\Debug\net10.0\ref\Exp 3.dll
